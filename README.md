@@ -15,7 +15,15 @@
   </a>
 </p>
 <p align="center">
-  Je conçois des applications web intelligentes qui transforment des idées complexes en expériences simples, utiles et élégantes.
+  Je prends mes idées, mes doutes, mes essais… et j’en fais quelque chose de vivant.
+Je teste vite.  
+J’apprends vite.  
+Je livre.
+Front-end pour captiver.  
+IA pour amplifier.  
+Innovation pour transformer.
+Je ne cherche pas à suivre le futur.  
+Je préfère le construire.
 </p>
 
 ## Tech Stack
