@@ -58,14 +58,6 @@
   <img src="https://streak-stats.demolab.com?user=OliviaG-dev&theme=tokyonight&hide_border=true" />
 </p>
 
-
-
-## Contact
-<p align="center">
-  <a href="https://portfolio-olivia-g-dev.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/olivia-gautheron-dev">LinkedIn</a> •
-  <a href="https://github.com/OliviaG-dev">GitHub</a>
-</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:7F5AF0,100:2CB67D" />
 </p>
