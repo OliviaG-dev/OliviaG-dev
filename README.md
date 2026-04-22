@@ -41,9 +41,7 @@
   <img src="https://img.shields.io/badge/Prompt_Engineering-4C2A85?style=flat-square&logo=probot&logoColor=white" />
   <img src="https://img.shields.io/badge/UI%2FUX-7A284E?style=flat-square&logo=figma&logoColor=white" />
 </p>
-
-## GitHub Analytics
-
+<p align="center">────────────────────────</p>
 <p align="center">
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/OliviaG-dev/OliviaG-dev/main/.github/badges/commits.json" alt="Total commits" />
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/OliviaG-dev/OliviaG-dev/main/.github/badges/pull_requests.json" alt="Total pull requests" />
