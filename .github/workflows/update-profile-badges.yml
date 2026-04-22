@@ -1,19 +1,23 @@
 name: Update profile badges
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 on:
   schedule:
-    - cron: "0 6 * * *"   # tous les jours à 06:00 UTC
-  workflow_dispatch:       # bouton "Run workflow" manuel
+    - cron: "0 6 * * *"
+  workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: profile-badges-main
+  cancel-in-progress: true
 jobs:
   update-badges:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
-      - name: Build badges JSON
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Fetch totals from GitHub API
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: OliviaG-dev
@@ -31,8 +35,15 @@ jobs:
           cat > .github/badges/pull_requests.json <<EOF
           { "schemaVersion": 1, "label": "pull requests", "message": "${prs}", "color": "7A284E" }
           EOF
-      - name: Commit changes if needed
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update profile badges"
-          file_pattern: .github/badges/*.json
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/badges/commits.json .github/badges/pull_requests.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update profile badges"
+          git pull --rebase origin main
+          git push origin HEAD:main
