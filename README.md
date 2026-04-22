@@ -17,7 +17,7 @@
 <p align="center">
   Je conçois des applications web intelligentes qui transforment des idées complexes en expériences simples, utiles et élégantes.
 </p>
----
+
 ## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,vercel,figma,git,github,vscode" />
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Prompt_Engineering-4B5563?style=flat-square&logo=probot&logoColor=white" />
   <img src="https://img.shields.io/badge/UI%2FUX-0EA5E9?style=flat-square&logo=figma&logoColor=white" />
 </p>
----
+
 ## Projets phares
 <table>
   <tr>
@@ -48,7 +48,7 @@
     </td>
   </tr>
 </table>
----
+
 ## GitHub Analytics
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=OliviaG-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -60,12 +60,12 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=OliviaG-dev&theme=tokyonight&no-frame=true&column=6&margin-w=8&margin-h=8" />
 </p>
----
+
 ## Ce que je recherche
 <p align="center">
   Opportunités en <b>développement IA / Front-end</b> sur des produits à impact (SaaS, startup, équipes produit B2C/B2B).
 </p>
----
+
 ## Contact
 <p align="center">
   <a href="https://portfolio-olivia-g-dev.vercel.app/">Portfolio</a> •
