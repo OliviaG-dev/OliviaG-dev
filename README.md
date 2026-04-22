@@ -26,7 +26,7 @@
   ⚡ Tester vite &nbsp;•&nbsp; 📚 Apprendre vite &nbsp;•&nbsp; 🚀 Livrer
 </p>
 <br/>
-<<p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Front--end-pour_captiver-7F5AF0?style=plastic" />
   <img src="https://img.shields.io/badge/IA-pour_amplifier-2CB67D?style=plastic" />
   <img src="https://img.shields.io/badge/Innovation-pour_transformer-0EA5E9?style=plastic" />
@@ -36,7 +36,6 @@
   <strong>Ne pas suivre le futur.<br/>Le construire.</strong>
 </p>
 
-## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,vercel,figma,git,github,vscode" />
 </p>
