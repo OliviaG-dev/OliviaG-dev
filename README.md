@@ -1,6 +1,6 @@
 <!-- Bannière / Hero -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=AI%20%2F%20Front-end%20Developer&fontAlign=50&fontAlignY=45&color=0:3B1F2B,100:4C2A85&fontColor=F8EDEB" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=AI%20%2F%20Front-end%20Developer&fontSize=40&fontAlign=50&fontAlignY=35&color=0:3B1F2B,100:4C2A85&fontColor=F8EDEB" />
 </p>
 <!-- CTA Recruteur -->
 <p align="center">
@@ -31,9 +31,8 @@
   <img src="https://img.shields.io/badge/Innovation-pour_transformer-8E3B46?style=plastic" />
 </p>
 <br/>
-<p align="center">
-  <strong>Ne pas suivre le futur.<br/>Le construire.</strong>
-</p>
+<p align="center"><em><strong>Ne pas suivre le futur.<br/>Le construire.</strong></em></p>
+<br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,vue,vercel,figma,git,github,vscode" />
 </p>
@@ -42,32 +41,6 @@
   <img src="https://img.shields.io/badge/Prompt_Engineering-4C2A85?style=flat-square&logo=probot&logoColor=white" />
   <img src="https://img.shields.io/badge/UI%2FUX-7A284E?style=flat-square&logo=figma&logoColor=white" />
 </p>
-
-## Fragments de création
-
-### PlanMyJob
-> Organiser sa recherche d'emploi comme un vrai projet.  
-> Plateforme de suivi des candidatures et de pilotage d’actions.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-4C2A85?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-8F6FB5?style=flat-square&logo=react&logoColor=white)
-![Productivity UI](https://img.shields.io/badge/Productivity_UI-7A284E?style=flat-square)
-
-### CVForgeAI
-> Créer des CV percutants avec l’IA.  
-> Outil de génération et d’amélioration de CV selon les offres ciblées.
-
-![AI](https://img.shields.io/badge/AI-5B2A86?style=flat-square&logo=openai&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-4C2A85?style=flat-square&logo=typescript&logoColor=white)
-![UX Writing](https://img.shields.io/badge/UX_Writing-8E3B46?style=flat-square)
-
-### TarotMind
-> Expérience interactive et interprétative assistée par IA.  
-> Produit centré sur l’engagement utilisateur et l’expérience conversationnelle.
-
-![Conversational UX](https://img.shields.io/badge/Conversational_UX-6A1E55?style=flat-square)
-![AI](https://img.shields.io/badge/IA-5B2A86?style=flat-square&logo=openai&logoColor=white)
-![Immersive Experience](https://img.shields.io/badge/Immersive_Experience-7A284E?style=flat-square)
 
 ## GitHub Analytics
 
