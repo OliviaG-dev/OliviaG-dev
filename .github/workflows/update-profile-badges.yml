@@ -26,10 +26,10 @@ jobs:
             -d "{\"query\":\"query { user(login: \\\"$USERNAME\\\") { pullRequests { totalCount } } }\"}" \
             | jq -r '.data.user.pullRequests.totalCount')
           cat > .github/badges/commits.json <<EOF
-          { "schemaVersion": 1, "label": "commits (last 12 months)", "message": "${commits}", "color": "8b5cf6" }
+          { "schemaVersion": 1, "label": "commits (last 12 months)", "message": "${commits}", "color": "5B2A86" }
           EOF
           cat > .github/badges/pull_requests.json <<EOF
-          { "schemaVersion": 1, "label": "pull requests", "message": "${prs}", "color": "06b6d4" }
+          { "schemaVersion": 1, "label": "pull requests", "message": "${prs}", "color": "7A284E" }
           EOF
       - name: Commit changes if needed
         uses: stefanzweifel/git-auto-commit-action@v5
