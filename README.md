@@ -51,16 +51,14 @@
 
 ## GitHub Analytics
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OliviaG-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/OliviaG-dev/OliviaG-dev/main/.github/badges/commits.json" alt="Total commits" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/OliviaG-dev/OliviaG-dev/main/.github/badges/pull_requests.json" alt="Total pull requests" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=OliviaG-dev&theme=tokyonight&hide_border=true" />
 </p>
 
-## Ce que je recherche
-<p align="center">
-  Opportunités en <b>développement IA / Front-end</b> sur des produits à impact (SaaS, startup, équipes produit B2C/B2B).
-</p>
+
 
 ## Contact
 <p align="center">
