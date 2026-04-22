@@ -57,9 +57,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=OliviaG-dev&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OliviaG-dev&theme=tokyonight&no-frame=true&column=6&margin-w=8&margin-h=8" />
-</p>
 
 ## Ce que je recherche
 <p align="center">
