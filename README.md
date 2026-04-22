@@ -1,6 +1,6 @@
 <!-- Bannière / Hero -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Olivia%20Gautheron&fontAlign=50&fontAlignY=40&color=0:7F5AF0,100:2CB67D&fontColor=ffffff&desc=D%C3%A9veloppeur%20IA%20%2F%20Front-end&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=AI%20%2F%20Front-end%20Developer&fontAlign=50&fontAlignY=45&color=0:7F5AF0,100:2CB67D&fontColor=ffffff" />
 </p>
 <!-- CTA Recruteur -->
 <p align="center">
