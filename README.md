@@ -45,26 +45,35 @@
   <img src="https://img.shields.io/badge/UI%2FUX-0EA5E9?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-## Projets phares
-<table>
-  <tr>
-    <td width="33%">
-      <h3>PlanMyJob</h3>
-      <p>Organiser sa recherche d'emploi comme un vrai projet.</p>
-      <p><b>Stack :</b> TypeScript, React</p>
-    </td>
-    <td width="33%">
-      <h3>CVForgeAI</h3>
-      <p>Créer des CV percutants avec l'IA.</p>
-      <p><b>Valeur :</b> gain de temps + personnalisation</p>
-    </td>
-    <td width="33%">
-      <h3>TarotMind</h3>
-      <p>Expérience conversationnelle immersive assistée par IA.</p>
-      <p><b>Focus :</b> UX & engagement</p>
-    </td>
-  </tr>
-</table>
+## Fragments de création
+
+### PlanMyJob
+> Organiser sa recherche d'emploi comme un vrai projet.  
+> Plateforme de suivi des candidatures et de pilotage d’actions.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111)
+![Productivity UI](https://img.shields.io/badge/Productivity_UI-2CB67D?style=flat-square)
+
+---
+
+### CVForgeAI
+> Créer des CV percutants avec l’IA.  
+> Outil de génération et d’amélioration de CV selon les offres ciblées.
+
+![AI](https://img.shields.io/badge/AI-7C3AED?style=flat-square&logo=openai&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![UX Writing](https://img.shields.io/badge/UX_Writing-0EA5E9?style=flat-square)
+
+---
+
+### TarotMind
+> Expérience interactive et interprétative assistée par IA.  
+> Produit centré sur l’engagement utilisateur et l’expérience conversationnelle.
+
+![Conversational UX](https://img.shields.io/badge/Conversational_UX-F59E0B?style=flat-square)
+![IA](https://img.shields.io/badge/IA-7C3AED?style=flat-square&logo=openai&logoColor=white)
+![Immersive Experience](https://img.shields.io/badge/Immersive_Experience-EC4899?style=flat-square)
 
 ## GitHub Analytics
 <p align="center">
