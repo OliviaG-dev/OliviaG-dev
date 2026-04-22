@@ -14,16 +14,26 @@
     <img src="https://img.shields.io/badge/Me_contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+## ✨ About Me
 <p align="center">
-  Je prends mes idées, mes doutes, mes essais… et j’en fais quelque chose de vivant.
-Je teste vite.  
-J’apprends vite.  
-Je livre.
-Front-end pour captiver.  
-IA pour amplifier.  
-Innovation pour transformer.
-Je ne cherche pas à suivre le futur.  
-Je préfère le construire.
+  <em>Donner vie à des idées avec du code, de l’intuition et beaucoup de curiosité.</em>
+</p>
+<p align="center">
+  Prendre des idées, des doutes, des essais…<br/>
+  et en faire quelque chose de vivant.
+</p>
+<p align="center">
+  ⚡ Tester vite &nbsp;•&nbsp; 📚 Apprendre vite &nbsp;•&nbsp; 🚀 Livrer
+</p>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Front--end-pour_captiver-7F5AF0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IA-pour_amplifier-2CB67D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Innovation-pour_transformer-0EA5E9?style=for-the-badge" />
+</p>
+<br/>
+<p align="center">
+  <strong>Ne pas suivre le futur.<br/>Le construire.</strong>
 </p>
 
 ## Tech Stack
