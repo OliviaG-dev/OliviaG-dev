@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,vercel,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,vue,vercel,figma,git,github,vscode" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/AI_Product-7B61FF?style=flat-square&logo=openai&logoColor=white" />
