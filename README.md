@@ -24,7 +24,7 @@
 <p align="center">
   ⚡ Tester vite &nbsp;•&nbsp; 📚 Apprendre vite &nbsp;•&nbsp; 🚀 Livrer
 </p>
-<br/>
+<p align="center">────────────────────────</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Front--end-pour_captiver-5B2A86?style=plastic" />
   <img src="https://img.shields.io/badge/IA-pour_amplifier-7A284E?style=plastic" />
