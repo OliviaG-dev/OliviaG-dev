@@ -10,7 +10,7 @@
   <a href="https://portfolio-olivia-g-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-3B1F2B?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:oxtramag@outlook.com" target="_blank" rel="noopener noreferrer">
+<a href="https://outlook.live.com/mail/0/deeplink/compose?to=oxtramag@outlook.com">
   <img src="https://img.shields.io/badge/Contact-7A284E?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
 </a>
 </p>
