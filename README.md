@@ -10,9 +10,9 @@
   <a href="https://portfolio-olivia-g-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-3B1F2B?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:oxtramag@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-7A284E?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="mailto:oxtramag@outlook.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Contact-7A284E?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
+</a>
 </p>
 <p align="center">
   <em>Donner vie à des idées avec du code, de l’intuition et beaucoup de curiosité.</em>
