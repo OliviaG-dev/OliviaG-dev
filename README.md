@@ -22,7 +22,7 @@
   et en faire quelque chose de vivant.
 </p>
 <p align="center">
-  ⚡ Tester vite &nbsp;•&nbsp; 📚 Apprendre vite &nbsp;•&nbsp; 🚀 Livrer
+  ⚡ Expérimenter &nbsp;•&nbsp; 📚 Apprendre &nbsp;•&nbsp; 🚀 Construire
 </p>
 <p align="center">────────────────────────</p>
 <p align="center">
@@ -34,7 +34,7 @@
 <p align="center"><em><strong>Ne pas suivre le futur.<br/>Le construire.</strong></em></p>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,vue,vercel,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,react,html,css,vue,vercel,figma,git,github,nodejs,postgres,tailwind,docker,vitest" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/AI_Product-5B2A86?style=flat-square&logo=openai&logoColor=white" />
