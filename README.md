@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/OliviaG-dev/OliviaG-dev/main/.github/badges/pull_requests.json" alt="Total pull requests" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=OliviaG-dev&theme=midnight-purple&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=OliviaG-dev&theme=midnight-purple&hide_border=true&cache_seconds=1800" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:3B1F2B,100:4C2A85" />
