@@ -18,10 +18,6 @@
   <em>Donner vie à des idées avec du code, de l’intuition et beaucoup de curiosité.</em>
 </p>
 <p align="center">
-  Prendre des idées, des doutes, des essais…<br/>
-  et en faire quelque chose de vivant.
-</p>
-<p align="center">
   ⚡ Expérimenter &nbsp;•&nbsp; 📚 Apprendre &nbsp;•&nbsp; 🚀 Construire
 </p>
 <p align="center">────────────────────────</p>
