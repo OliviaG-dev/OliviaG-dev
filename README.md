@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/OliviaG-dev/OliviaG-dev/main/.github/badges/pull_requests.json" alt="Total pull requests" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=OliviaG-dev&theme=midnight-purple&hide_border=true&cache_seconds=300&type=svg" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=OliviaG-dev&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=20260604" alt="GitHub streak" />
 </p>
 
 <p align="center">
