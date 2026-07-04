@@ -29,9 +29,19 @@
 <br/>
 <p align="center"><em><strong>Ne pas suivre le futur.<br/>Le construire.</strong></em></p>
 <br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,html,css,vue,vercel,figma,git,github,nodejs,postgres,tailwind,docker,vitest" />
-</p>
+<p align="center">────────</p>
+<div align="center">
+
+<h3>TypeScript • React • Angular • Vue.js • Tailwind CSS • Sass</h3>
+
+<h3>Node.js • NestJS • Express • REST APIs</h3>
+
+<h3>OpenAI • Gemini • Prompt Engineering • AI Workflows • Cursor</h3>
+
+<h3>GitHub • CI/CD • Vercel • Linux • Vitest • Playwright</h3>
+
+</div>
+<br/>
 <p align="center">
   <img src="https://img.shields.io/badge/AI_Product-5B2A86?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-4C2A85?style=flat-square&logo=probot&logoColor=white" />
