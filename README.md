@@ -17,9 +17,17 @@
 <p align="center">
   <em>Donner vie à des idées avec du code, de l’intuition et beaucoup de curiosité.</em>
 </p>
-<p align="center">
-  ⚡ Expérimenter &nbsp;•&nbsp; 📚 Apprendre &nbsp;•&nbsp; 🚀 Construire
-</p>
+<div align="center">
+
+### *Curieuse par nature, développeuse par passion.*
+
+Chaque projet est un terrain d'expérimentation pour apprendre, créer et construire des expériences web modernes.
+
+<br>
+
+⚡ **Apprendre** • 🚀 **Construire** • 🤖 **Innover**
+
+</div>
 <p align="center">────────────────────────</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Front--end-pour_captiver-5B2A86?style=plastic" />
