@@ -15,19 +15,20 @@
 </a>
 </p>
 <p align="center">
-  <em>Donner vie à des idées avec du code, de l’intuition et beaucoup de curiosité.</em>
+  <em>Les meilleures idées commencent parfois par une simple curiosité.</em>
 </p>
 <div align="center">
 
 ### *Curieuse par nature, développeuse par passion.*
 
-Chaque projet est un terrain d'expérimentation pour apprendre, créer et construire des expériences web modernes.
+Entre créativité, technologie et intelligence artificielle, chaque projet est une nouvelle occasion d’explorer, d’apprendre et de construire quelque chose qui a du sens.
 
 <br>
 
-⚡ **Apprendre** • 🚀 **Construire** • 🤖 **Innover**
+🌙 Imaginer • ✨ Créer • 🧩 Résoudre • 🚀 Faire évoluer
 
 </div>
+
 <p align="center">────────────────────────</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Front--end-pour_captiver-5B2A86?style=plastic" />
@@ -35,7 +36,7 @@ Chaque projet est un terrain d'expérimentation pour apprendre, créer et constr
   <img src="https://img.shields.io/badge/Innovation-pour_transformer-8E3B46?style=plastic" />
 </p>
 <br/>
-<p align="center"><em><strong>Ne pas suivre le futur.<br/>Le construire.</strong></em></p>
+<p align="center"><em><strong>Créer l’inattendu.<br/>Façonner l’avenir.</strong></em></p>
 <br/>
 <p align="center">────────</p>
 <div align="center">
@@ -61,7 +62,7 @@ Chaque projet est un terrain d'expérimentation pour apprendre, créer et constr
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/OliviaG-dev/OliviaG-dev/main/.github/badges/pull_requests.json" alt="Total pull requests" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=OliviaG-dev&theme=midnight-purple&hide_border=true&cache=2" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=OliviaG-dev&theme=midnight-purple&hide_border=true&cache=1" alt="GitHub streak" />
 </p>
 
 <p align="center">
